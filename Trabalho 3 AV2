@@ -138,7 +138,9 @@ int main() {
         mostraTabuleiro(tabuleiro);
    
         printf ("\nFonte: cprogressivo.net");
-   
+        
+        system ("PAUSE");
+        return 0;
     }
     
     
