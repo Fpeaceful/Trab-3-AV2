@@ -137,7 +137,7 @@ int main() {
         printf("\n\n\nJogo terminado. Você acertou os 3 navios em %d tentativas", tentativas);
         mostraTabuleiro(tabuleiro);
    
-        printf ("\nFonte: cprogressivo.net");
+        printf ("\nFonte: cprogressivo.net\n");
         
         system ("PAUSE");
         return 0;
